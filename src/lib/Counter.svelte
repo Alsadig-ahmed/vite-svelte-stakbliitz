@@ -1,7 +1,7 @@
 <script>
   let count = 0
   const increment = () => {
-    count += 12
+    count += 34
   }
 </script>
 
